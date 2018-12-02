@@ -1,0 +1,29 @@
+.data{
+	position: absolute;
+	top:20%;
+	width:50%;
+	height:100%
+}
+
+.stats{
+	position:absolute;
+	top:20%;
+	left:30%;
+}
+
+.phrases{
+	position:absolute;
+	left:50%;
+	width:50%;
+	height:100%
+}
+
+.result{
+	position:absolute;
+	left:30%;
+
+}
+
+.data p{
+	display:inline;
+}
